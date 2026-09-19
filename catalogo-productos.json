@@ -1,0 +1,14 @@
+{
+  "brand": "EducationalLabsHDT",
+  "updated": "2026-09-18",
+  "products": [
+    {
+      "sku": "ELHDT-FOCUS-001",
+      "name": "FocusLab Kit 21 dias",
+      "type": "bundle",
+      "category": "estudio",
+      "price_usd": 19.9,
+      "status": "publicado"
+    }
+  ]
+}
